@@ -5,7 +5,6 @@
 
 ![Garima's github stats](https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true)
 
-![gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flowstate.co%2Fgif-mesmerizing-colors-gif-color-2850694%2F&psig=AOvVaw2i8mDDx6CtBgAL976o046Z&ust=1602428995691000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDH5KqnquwCFQAAAAAdAAAAABAV)
 
 
 ### Connect With Me 
