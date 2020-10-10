@@ -5,8 +5,10 @@
 
 ![Garima's github stats](https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true)
 
+![gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flowstate.co%2Fgif-mesmerizing-colors-gif-color-2850694%2F&psig=AOvVaw2i8mDDx6CtBgAL976o046Z&ust=1602428995691000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDH5KqnquwCFQAAAAAdAAAAABAV)
 
-### Connect With me 
+
+### Connect With Me 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/garimavatss)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/garima.vatss/?r=nametag)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='25'>](https://www.youtube.com/channel/UCheHxaUY0R5NWDDXLa5siWQ?view_as=subscriber)
