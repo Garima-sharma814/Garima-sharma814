@@ -2,6 +2,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/Garima-sharma814)
 
+[![HitCount](http://hits.dwyl.com/Garima-sharma814/{project}.svg)](http://hits.dwyl.com/Garima-sharma814/{project})
+
 
 ![Garima's github stats](https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true)
 
