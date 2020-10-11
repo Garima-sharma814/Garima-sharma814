@@ -13,7 +13,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='25'>](https://www.youtube.com/channel/UCheHxaUY0R5NWDDXLa5siWQ?view_as=subscriber) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://m.me/garima.vats.143) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/Garima-sharma814) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/garima-sharma-6621701b3) 
+[<img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/garima-sharma-6621701b3) 
 
 ### Languages I know 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
