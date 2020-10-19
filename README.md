@@ -1,4 +1,8 @@
 ### Hey there I'm [Garima!](https://github.com/Garima-sharma814) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+- I am a student pursuing [BCA](https://collegedunia.com/courses/bachelor-of-computer-applications-bca) (Bachelor of Computer Applications).
+- I usually code when I have free time.
+- I'm currently working from home as a part time worker.
+- Save Animals , GO Vegan
 
 ![Profile views](https://gpvc.arturio.dev/Garima-sharma814)
 
@@ -27,4 +31,4 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814)](https://github.com/Garima-sharma814/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814)](https://github.com/Garima-sharma814/github-readme-stats
