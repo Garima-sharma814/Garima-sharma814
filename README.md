@@ -9,7 +9,7 @@
 [![HitCount](http://hits.dwyl.com/Garima-sharma814/{project}.svg)](http://hits.dwyl.com/Garima-sharma814/{project})
 
 
-![Garima's github stats](https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true)
+
 
 
 
@@ -30,7 +30,10 @@
 ### Databases I use
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
+![Garima's github stats](https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814)
