@@ -1,4 +1,4 @@
-### Hey there I'm [Garima!](https://github.com/Garima-sharma814) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hey there I'm [Garima!](https://garima-sharma814.github.io/My-website/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 - I'm a student pursuing [BCA](https://collegedunia.com/courses/bachelor-of-computer-applications-bca) (Bachelor of Computer Applications).
 - I usually code when I have free time.
 - I'm currently working from home as a part time worker.
