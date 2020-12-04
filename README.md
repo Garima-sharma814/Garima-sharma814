@@ -33,4 +33,4 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814&layout=compact)
