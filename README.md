@@ -1,7 +1,7 @@
 ### Hey there I'm [Garima!](https://garima-sharma814.github.io/My-website/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 If you read this, it might well be that I sent you the link so you can learn more about working with me. Or you might just have stumbled upon my profile, in which case: Nice to meet you! :)
 
-If your experience with me is different or you think there is a way this document might be more useful, feel free to open an [issue](https://github.com/Garima-sharma814/Garima-sharma814/issues/new) or [suggest a change](https://github.com/Garima-sharma814/Garima-sharma814/edit/main/README.md).
+If your experience with me is different or you think there is a way this document might be more useful, feel free to open an [issue](https://github.com/Garima-sharma814/Garima-sharma814/issues/new) or [suggest a change](https://github.com/Garima-sharma814/Garima-sharma814/edit/master/README.md).
 
 - I'm a student pursuing [BCA](https://collegedunia.com/courses/bachelor-of-computer-applications-bca) (Bachelor of Computer Applications).
 - I usually code when I have free time.
