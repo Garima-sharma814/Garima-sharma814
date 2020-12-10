@@ -10,15 +10,13 @@ If your experience with me is different or you think there is a way this documen
 
 ![Profile views](https://gpvc.arturio.dev/Garima-sharma814)
 
-[![HitCount](http://hits.dwyl.com/Garima-sharma814/{project}.svg)](http://hits.dwyl.com/Garima-sharma814/{project})
-
 
 
 
 
 
 ### Connect With Me 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/garimavatss) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25' >](https://twitter.com/garimavatss) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/garima.vatss/?r=nametag) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='25'>](https://www.youtube.com/channel/UCheHxaUY0R5NWDDXLa5siWQ?view_as=subscriber) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://m.me/garima.vats.143) 
