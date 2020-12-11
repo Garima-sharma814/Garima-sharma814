@@ -16,12 +16,9 @@ If your experience with me is different or you think there is a way this documen
 
 
 ### Connect With Me 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25' >](https://twitter.com/garimavatss) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/garima.vatss/?r=nametag) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='25'>](https://www.youtube.com/channel/UCheHxaUY0R5NWDDXLa5siWQ?view_as=subscriber) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://m.me/garima.vats.143) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/Garima-sharma814) 
-[<img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/garima-sharma-6621701b3) 
+[<img src='https://www.vectorlogo.zone/logos/twitter/twitter-official.svg' alt='twitter' height='25'>](https://twitter.com/garimavatss)
+[<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='instagram' height='25'>](https://www.instagram.com/garima.vatss/?r=nametag)      [<img src='https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg' alt='YouTube' height='25'>](https://www.youtube.com/channel/UCheHxaUY0R5NWDDXLa5siWQ?view_as=subscriber)   [<img src='https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg' alt='facebook' height='25'>](https://m.me/garima.vats.143)   [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/garima-sharma-6621701b3)   
+
 
 ### Languages I know 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/html%20-%2314354C.svg?&style=for-the-badge&logo=html&logoColor=white"/>
@@ -29,10 +26,11 @@ If your experience with me is different or you think there is a way this documen
 ### Databases I use
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
-![Garima's github stats](https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true)
+
+![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true&count_private=true&theme=react)
 
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Garima-sharma814&theme=dark)
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814&layout=compact&theme=react)
