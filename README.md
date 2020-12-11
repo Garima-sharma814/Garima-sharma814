@@ -30,7 +30,5 @@ If your experience with me is different or you think there is a way this documen
 ![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true&count_private=true&theme=react)
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Garima-sharma814&theme=dark)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814&layout=compact&theme=react)
