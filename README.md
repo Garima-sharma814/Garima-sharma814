@@ -17,7 +17,11 @@ If your experience with me is different or you think there is a way this documen
 
 ### Connect With Me 
 [<img src='https://www.vectorlogo.zone/logos/twitter/twitter-official.svg' alt='twitter' height='25'>](https://twitter.com/garimavatss)
-[<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='instagram' height='25'>](https://www.instagram.com/garima.vatss/?r=nametag)      [<img src='https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg' alt='YouTube' height='25'>](https://www.youtube.com/channel/UCheHxaUY0R5NWDDXLa5siWQ?view_as=subscriber)   [<img src='https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg' alt='facebook' height='25'>](https://m.me/garima.vats.143)   [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/garima-sharma-6621701b3)   
+[<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='instagram' height='25'>](https://www.instagram.com/garima.vatss/?r=nametag)      [<img src='https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg' alt='YouTube' height='25'>](https://www.youtube.com/channel/UCheHxaUY0R5NWDDXLa5siWQ?view_as=subscriber)   [<img src='https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg' alt='facebook' height='25'>](https://m.me/garima.vats.143)   [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/garima-sharma-6621701b3) 
+
+<a href="https://dev.to/garimasharma814">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Garima's DEV Profile" height="30" width="30">
+</a>
 
 
 ### Languages I know 
