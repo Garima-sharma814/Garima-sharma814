@@ -25,6 +25,9 @@ If your experience with me is different or you think there is a way this documen
 ### Databases I use
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
+### Tools I use 
+<img src="https://img.shields.io/badge/VsCode%20-%2314354C.svg?&style=for-the-badge&logo=VsCode&logoColor=white"/> <img src="https://img.shields.io/badge/TurboC++%20-%2300599C.svg?&style=for-the-badge&logo=TurboC++&logoColor=white"/> <img src="https://img.shields.io/badge/CodeBlocks%20-%2300599C.svg?&style=for-the-badge&logo=CodeBlocks%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-%23ED8B00.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
+
 
 ![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true&count_private=true&theme=react)
 
