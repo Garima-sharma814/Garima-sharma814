@@ -10,6 +10,15 @@ If your experience with me is different or you think there is a way this documen
 
 ![Profile views](https://gpvc.arturio.dev/Garima-sharma814)
 
+###Currently Learning
+- Web Development
+- Python Programming
+- Javascript
+
+###Future Scope 
+- Node.js
+- React.js
+
 
 ### Read my blogs on [Dev.to](https://dev.to/garimasharma)
 
