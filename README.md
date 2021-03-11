@@ -8,7 +8,6 @@ If your experience with me is different or you think there is a way this documen
 - I'm currently working from home as a part time worker.
 - Save Animals , GO Vegan
 
-![Profile views](https://gpvc.arturio.dev/Garima-sharma814)
 
 ### Currently Learning
 - Web Development
@@ -21,7 +20,7 @@ If your experience with me is different or you think there is a way this documen
 
 
 ### Read my blogs on [Dev.to](https://dev.to/garimasharma)
-
+![Profile views](https://gpvc.arturio.dev/Garima-sharma814)
 
 ### Connect With Me 
 [<img src='https://www.vectorlogo.zone/logos/twitter/twitter-official.svg' alt='twitter' height='25'>](https://twitter.com/garimavatss)
