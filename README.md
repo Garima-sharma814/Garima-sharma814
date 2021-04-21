@@ -4,15 +4,12 @@ If you read this, it might well be that I sent you the link so you can learn mor
 If your experience with me is different or you think there is a way this document might be more useful, feel free to open an [issue](https://github.com/Garima-sharma814/Garima-sharma814/issues/new) or [suggest a change](https://github.com/Garima-sharma814/Garima-sharma814/edit/master/README.md).
 
 - I'm a student pursuing [BCA](https://collegedunia.com/courses/bachelor-of-computer-applications-bca) (Bachelor of Computer Applications).
-- I usually code when I have free time.
-- I'm currently working from home as a part time worker.
 - Save Animals , GO Vegan
 
 
 ### Currently Learning
 - Web Development
 - Python Programming
-- Javascript
 
 ### Future Scope 
 - Node.js
