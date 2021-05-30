@@ -9,10 +9,9 @@ If your experience with me is different or you think there is a way this documen
 
 ### Currently Learning
 - Web Development
-- Python Programming
+- Node.js
 
 ### Future Scope 
-- Node.js
 - React.js
 <hr>
 
