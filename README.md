@@ -15,7 +15,10 @@ If your experience with me is different or you think there is a way this documen
 - React.js
 <hr>
 
-### Read my blogs on [Dev.to](https://dev.to/garimasharma)
+### Read my blogs on 
+- [@practicaldev](https://dev.to/garimasharma)
+- [@hashnode](https://garimasharma.hashnode.dev/)
+
 ![Profile views](https://gpvc.arturio.dev/Garima-sharma814)
 
 ### Connect With Me 
