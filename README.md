@@ -38,8 +38,7 @@ If your experience with me is different or you think there is a way this documen
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/mongodb-%2300599C.svg?&style=for-the-badge&logo=mongodb&logoColor=black"/>
 <hr>
 
- <img src="https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true&count_private=true&theme=react">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814&layout=compact&theme=react">
+ <img src="https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true&count_private=true&theme=react&bg_color=ffffff00&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814&layout=compact&theme=react&bg_color=ffffff00&hide_border=true">
   
 <hr>
 <img src="https://wakatime.com/share/@GarimaSharma/e5e56850-fdc9-4441-9ff6-1b74b50efc31.svg" height="370">
-
