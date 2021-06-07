@@ -20,7 +20,7 @@
 
 <hr>
 
-<h2 align="center"> Recent Blogs </h2>
+<h2> Recent Blogs </h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [CSS Box Model](https://dev.to/garimasharma/css-box-model-24fk)
@@ -32,9 +32,9 @@
 
 <hr>
 
-<h2 align="center"> Languages and Tools </h2>
+<h2> Languages and Tools </h2>
 
-<table align="center">
+<table>
 <tr> 
 <th> Skills </th>
 <th> Tools </th>
