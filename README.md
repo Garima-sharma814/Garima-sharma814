@@ -22,10 +22,7 @@
 - [@hashnode](https://garimasharma.hashnode.dev/)
 
 ![Profile views](https://gpvc.arturio.dev/Garima-sharma814)
-
-### Connect With Me 
-[<img src='https://www.vectorlogo.zone/logos/twitter/twitter-official.svg' alt='twitter' height='25'>](https://twitter.com/garimavatss)
-[<img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='instagram' height='25'>](https://www.instagram.com/garima.vatss/?r=nametag)  [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/garima-sharma-6621701b3) 
+ 
 
 
 ### Languages I know 
@@ -37,10 +34,23 @@
 <img src="https://img.shields.io/badge/VsCode%20-%2314354C.svg?&style=for-the-badge&logo=VsCode&logoColor=white"/> <img src="https://img.shields.io/badge/TurboC++%20-%2300599C.svg?&style=for-the-badge&logo=TurboC++&logoColor=white"/> <img src="https://img.shields.io/badge/CodeBlocks%20-%2300599C.svg?&style=for-the-badge&logo=CodeBlocks%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-%23ED8B00.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
 
 ### Databases I use
+
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/mongodb-%2300599C.svg?&style=for-the-badge&logo=mongodb&logoColor=black"/>
 <hr>
-
- <img src="https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true&count_private=true&theme=react&bg_color=ffffff00&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814&layout=compact&theme=react&bg_color=ffffff00&hide_border=true">
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true&count_private=true&theme=react&bg_color=ffffff00&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814&layout=compact&theme=react&bg_color=ffffff00&hide_border=true"> </div>
   
 <hr>
+<div align="center">
 <img src="https://wakatime.com/share/@GarimaSharma/e5e56850-fdc9-4441-9ff6-1b74b50efc31.svg" height="370">
+</div>
+
+<hr>
+
+<div align="center">
+<h2>Connect With Me </h2>
+
+<a href="https://twitter.com/garimavatss"><img src='https://www.vectorlogo.zone/logos/twitter/twitter-official.svg' alt='twitter' height='25'></a>
+<a href="https://www.instagram.com/garima.vatss/?r=nametag "><img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='instagram' height='25'></a>
+<a href="https://www.linkedin.com/in/garima-sharma-6621701b3"><img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='25'></a>
+</div>
