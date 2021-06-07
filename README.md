@@ -2,7 +2,7 @@
 <img src="banner/banner.png" alt="banner">
 
 - I'm a student pursuing [BCA](https://collegedunia.com/courses/bachelor-of-computer-applications-bca) (Bachelor of Computer Applications).
-- Save Animals , GO Vegan
+- Pro tip ! Save Animals , GO Vegan
 <hr>
 
 ### Currently Learning
