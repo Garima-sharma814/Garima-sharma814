@@ -64,6 +64,6 @@
 <a href="https://www.instagram.com/garima.vatss/?r=nametag "><img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='instagram' height='25'></a>
 <a href="https://www.linkedin.com/in/garima-sharma-6621701b3"><img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='25'></a>
 <a href="https://www.facebook.com/garima.vats.143/"><img src='https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg' alt='linkedin' height='25'></a>
-<a href="https://www.facebook.com/garima.vats.143/"><img src='https://www.vectorlogo.zone/logos/rss/rss-icon.svg' alt='linkedin' height='25'></a>
+<a href="http://garimasharma.netlify.app/"><img src='https://www.vectorlogo.zone/logos/rss/rss-icon.svg' alt='linkedin' height='25'></a>
 
 </div>
