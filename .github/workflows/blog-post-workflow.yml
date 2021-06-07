@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Garima-sharma814/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/garimasharma"
+          feed_list: "https://dev.to/feed/garimasharma, https://@username.hashnode.dev/rss.xml"
