@@ -24,10 +24,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [CSS Box Model](https://dev.to/garimasharma/css-box-model-24fk)
-- [CSS Box Model](https://garimasharma.hashnode.dev/css-box-model)
-- [How to write Markdown part-4](https://garimasharma.hashnode.dev/how-to-write-markdown-part-4)
-- [How to write Markdown part-3](https://garimasharma.hashnode.dev/how-to-write-markdown-part-3-1)
-- [How to write Markdown Part-2](https://garimasharma.hashnode.dev/how-to-write-markdown-part-2)
+- [Learn CSS with me  !](https://dev.to/garimasharma/learn-css-with-me-4296)
+- [How to write Markdown part-4](https://dev.to/garimasharma/how-to-write-markdown-part-4-1f94)
+- [How to write Markdown part-3](https://dev.to/garimasharma/how-to-write-markdown-part-3-3m0c)
+- [How to write Markdown part-2](https://dev.to/garimasharma/how-to-add-links-in-markdown-1bnf)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
