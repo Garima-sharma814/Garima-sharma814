@@ -6,9 +6,11 @@
 <p align="center"><img src="https://gpvc.arturio.dev/Garima-sharma814"></p>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true&count_private=true&theme=react&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814&layout=compact&theme=react&hide_border=true"> </div>
+ <img src="https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true"> </div>
   
 <hr>
+
+<h2 align="center"> On a journey to be a Full Stack Developer🚀 </h2>
 
 ## Learnings and Future Scope
 
