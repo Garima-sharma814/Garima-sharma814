@@ -65,7 +65,7 @@
 <hr>
 
 <div align="center">
-<h2> Connect With Me </h2>
+<h2> Connect With Me 🧐 </h2>
 
 <a href="https://twitter.com/garimavatss"><img src='https://www.vectorlogo.zone/logos/twitter/twitter-official.svg' alt='twitter' height='25'></a>
 <a href="https://www.instagram.com/garima.vatss/?r=nametag "><img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='instagram' height='25'></a>
