@@ -25,11 +25,11 @@
 <h2> Recent Blogs </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 6 Vs-Code Extension to be used in 2021](https://dev.to/garimasharma/top-6-vs-code-extension-to-be-used-in-2021-c08)
 - [CSS Box Model](https://dev.to/garimasharma/css-box-model-24fk)
 - [Learn CSS with me  !](https://dev.to/garimasharma/learn-css-with-me-4296)
 - [How to write Markdown part-4](https://dev.to/garimasharma/how-to-write-markdown-part-4-1f94)
 - [How to write Markdown part-3](https://dev.to/garimasharma/how-to-write-markdown-part-3-3m0c)
-- [How to write Markdown part-2](https://dev.to/garimasharma/how-to-add-links-in-markdown-1bnf)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
