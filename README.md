@@ -12,7 +12,7 @@
 
 <h2 align="center"> On a journey to be a Full Stack Developer🚀 </h2>
 
-## Learnings and Future Scope
+## Learnings and Future Scope 👀
 
 | Currently Learning | Future Scope |
 | ------------------ | ------------ |
@@ -22,7 +22,7 @@
 
 <hr>
 
-<h2> Recent Blogs </h2>
+<h2> Recent Blog 📄 </h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Top 6 Vs-Code Extension to be used in 2021](https://dev.to/garimasharma/top-6-vs-code-extension-to-be-used-in-2021-c08)
@@ -34,7 +34,7 @@
 
 <hr>
 
-<h2> Languages and Tools </h2>
+<h2> Languages and Tool 🛠 📚 </h2>
 
 <table>
 <tr> 
