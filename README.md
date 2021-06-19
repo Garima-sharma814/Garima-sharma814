@@ -16,9 +16,7 @@
 
 | Currently Learning | Future Scope |
 | ------------------ | ------------ |
-| Node.js            | RestFul API  |
-| Mongoose           | React.js     |
-| Express.js         |
+| React.js            |   |
 
 <hr>
 
