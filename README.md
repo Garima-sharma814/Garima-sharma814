@@ -23,11 +23,11 @@
 <h2> Recent Blog 📄 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 browser layout](https://dev.to/garimasharma/windows-11-browser-layout-403f)
 - [Pseudo-classes and pseudo-elements](https://dev.to/garimasharma/pseudo-classes-and-pseudo-elements-npp)
 - [CSS Selectors](https://dev.to/garimasharma/css-selectors-3co4)
 - [Top 6 Vs-Code Extension to be used in 2021](https://dev.to/garimasharma/top-6-vs-code-extension-to-be-used-in-2021-c08)
 - [CSS Box Model](https://dev.to/garimasharma/css-box-model-24fk)
-- [Learn CSS with me  !](https://dev.to/garimasharma/learn-css-with-me-4296)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
