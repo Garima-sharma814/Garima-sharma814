@@ -21,11 +21,11 @@
 <h2> Recent Blog 📄 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to Web Scraping with Node.js](https://dev.to/garimasharma/the-ultimate-guide-to-web-scraping-with-node-js-bn3)
 - [CSS- The Cascade !](https://dev.to/garimasharma/css-the-cascade-8i0)
 - [Windows 11 browser layout](https://dev.to/garimasharma/windows-11-browser-layout-403f)
 - [Pseudo-classes and pseudo-elements](https://dev.to/garimasharma/pseudo-classes-and-pseudo-elements-npp)
 - [CSS Selectors](https://dev.to/garimasharma/css-selectors-3co4)
-- [Top 6 Vs-Code Extension to be used in 2021](https://dev.to/garimasharma/top-6-vs-code-extension-to-be-used-in-2021-c08)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
