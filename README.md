@@ -64,7 +64,7 @@
 <h2> Connect With Me <img src="Assests/Handshake.gif" alt="Handshake.gif" height="32"></h2>
 
 <a href="https://twitter.com/garimavatss"><img src='https://www.vectorlogo.zone/logos/twitter/twitter-official.svg' alt='twitter' height='25'></a>
-<a href="https://www.instagram.com/garima.vatss/?r=nametag "><img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='instagram' height='25'></a>
+<a href="https://www.instagram.com/garimaasharma_/"><img src='https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg' alt='instagram' height='25'></a>
 <a href="https://www.linkedin.com/in/garima-sharma-6621701b3"><img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkedin' height='25'></a>
 <a href="https://www.facebook.com/garima.vats.143/"><img src='https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg' alt='linkedin' height='25'></a>
 <a href="http://garimasharma.netlify.app/"><img src='https://www.vectorlogo.zone/logos/rss/rss-icon.svg' alt='linkedin' height='25'></a>
