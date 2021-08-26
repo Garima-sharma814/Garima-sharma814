@@ -1,6 +1,6 @@
 <h1 align="center">Hey there I'm <a href="https://garimasharma.netlify.app/">Garima<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
 
-
+<img src="banner/banner.png" alt="banner">
 <p align="center"><img src="https://gpvc.arturio.dev/Garima-sharma814"></p>
 
 <div align="center">
