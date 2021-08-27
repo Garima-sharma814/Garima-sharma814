@@ -15,7 +15,7 @@
     100%  { opacity: 0.4; }
   }
 
-  .flicker { animation: flicker 6s infinite 3s step-end; }
+  .flicker { animation: flicker 4s infinite 3s step-end; }
 </style>
 <g>
 <symbol overflow="visible" id="glyph0-0">
@@ -63,7 +63,7 @@
 <g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
   <use xlink:href="#glyph0-1" x="21.668934" y="45.496396"/>
 </g>
-<g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
+<g style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
   <use xlink:href="#glyph0-2" x="30.179148" y="45.496396"/>
 </g>
 <g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
@@ -75,7 +75,7 @@
 <g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
   <use xlink:href="#glyph0-4" x="69.893483" y="45.496396"/>
 </g>
-<g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
+<g style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
   <use xlink:href="#glyph0-5" x="82.130393" y="45.496396"/>
 </g>
 <g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
@@ -90,7 +90,7 @@
 <g style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
   <use xlink:href="#glyph0-9" x="122.609563" y="45.496396"/>
 </g>
-<g style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
+<g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
   <use xlink:href="#glyph0-10" x="132.96923" y="45.496396"/>
 </g>
 <g style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
