@@ -12,7 +12,7 @@
 </p>
 
 <hr>
-
+<p align="center"><img src="https://gpvc.arturio.dev/Garima-sharma814"></p>
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true"> </div>
 
@@ -22,7 +22,6 @@
     <img src="Assests/blogs.svg"> <br> <br>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [The Ultimate Guide to Web Scraping with Node.js](https://dev.to/garimasharma/the-ultimate-guide-to-web-scraping-with-node-js-bn3)
 - [CSS- The Cascade !](https://dev.to/garimasharma/css-the-cascade-8i0)
 - [Windows 11 browser layout](https://dev.to/garimasharma/windows-11-browser-layout-403f)
