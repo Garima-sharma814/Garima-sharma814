@@ -14,7 +14,7 @@
     100%  { opacity: 0.4; }
   }
 
-  .flicker { animation: flicker 5s infinite 3s step-end; }
+  .flicker { animation: flicker 6s infinite 3s step-end; }
 </style>
 <defs>
 <g>
