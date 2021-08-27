@@ -12,7 +12,7 @@
 </p>
 
 <hr>
-
+<p align="center"><img src="https://gpvc.arturio.dev/Garima-sharma814"></p>
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true"> </div>
 
