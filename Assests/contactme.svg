@@ -14,7 +14,7 @@
     100%  { opacity: 0.4; }
   }
 
-  .flicker { animation: flicker 6s infinite 3s step-end; }
+  .flicker { animation: flicker 5s infinite 3s step-end; }
 </style>
 <defs>
 <g>
@@ -54,25 +54,25 @@
 <g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
   <use xlink:href="#glyph0-1" x="27.559052" y="45.496396"/>
 </g>
-<g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
+<g style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
   <use xlink:href="#glyph0-2" x="40.352186" y="45.496396"/>
 </g>
 <g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
   <use xlink:href="#glyph0-3" x="50.711852" y="45.496396"/>
 </g>
-<g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
+<g style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
   <use xlink:href="#glyph0-4" x="62.948762" y="45.496396"/>
 </g>
-<g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
+<g style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
   <use xlink:href="#glyph0-5" x="72.974694" y="45.496396"/>
 </g>
 <g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
   <use xlink:href="#glyph0-1" x="87.714608" y="45.496396"/>
 </g>
-<g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
+<g style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
   <use xlink:href="#glyph0-4" x="100.507741" y="45.496396"/>
 </g>
-<g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
+<g style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
   <use xlink:href="#glyph0-6" x="110.533673" y="45.496396"/>
 </g>
 <g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
@@ -81,10 +81,10 @@
 <g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
   <use xlink:href="#glyph0-8" x="135.827932" y="45.496396"/>
 </g>
-<g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
+<g style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
   <use xlink:href="#glyph0-9" x="149.288533" y="45.496396"/>
 </g>
-<g class="flicker" style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
+<g style="fill:rgb(32.548523%,60.778809%,96.078491%);fill-opacity:1;">
   <use xlink:href="#glyph0-9" x="154.614379" y="45.496396"/>
 </g>
 </g>
