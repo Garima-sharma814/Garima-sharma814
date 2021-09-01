@@ -22,11 +22,11 @@
     <img src="Assests/blogs.svg"> <br> <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Scrape Google SERPs Using WebScrapingAPI in Node.js](https://dev.to/garimasharma/how-to-scrape-google-serps-using-webscrapingapi-in-node-js-4f3g)
 - [The Ultimate Guide to Web Scraping with Node.js](https://dev.to/garimasharma/the-ultimate-guide-to-web-scraping-with-node-js-bn3)
 - [CSS- The Cascade !](https://dev.to/garimasharma/css-the-cascade-8i0)
 - [Windows 11 browser layout](https://dev.to/garimasharma/windows-11-browser-layout-403f)
 - [Pseudo-classes and pseudo-elements](https://dev.to/garimasharma/pseudo-classes-and-pseudo-elements-npp)
-- [CSS Selectors](https://dev.to/garimasharma/css-selectors-3co4)
 <!-- BLOG-POST-LIST:END -->
 </p>
 
