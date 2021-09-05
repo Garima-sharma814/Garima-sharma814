@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://garimasharma.netlify.app">
-    <img src="Assests/garimalogo.svg"> <br> <br>
-  </a>
+    <img src="Assests/garimalogo.svg"> 
+  </a> <br> <br>
   <samp>
     <a href="https://twitter.com/garimavatss">me</a> ·
     <a href="https://dev.to/garimasharma">blogs</a> ·
@@ -19,7 +19,9 @@
 <hr>
 
 <p align="center">
-    <img src="Assests/blogs.svg"> <br> <br>
+  <a href="https://dev.to/garimasharma">
+    <img src="Assests/blogs.svg">
+  </a> <br> <br>
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Scrape Google SERPs Using WebScrapingAPI in Node.js](https://dev.to/garimasharma/how-to-scrape-google-serps-using-webscrapingapi-in-node-js-4f3g)
@@ -33,13 +35,14 @@
 <hr>
 
 <p align="center">
-    <img src="Assests/contactme.svg"> <br> <br>
+  <a href="#" >
+    <img src="Assests/contactme.svg"> </a> <br> <br>
  
   <samp>
     <a href="https://twitter.com/garimavatss">twitter</a> ·
     <a href="https://www.instagram.com/garimaasharma_/">instagram</a> ·
     <a href="https://www.facebook.com/garima.vats.143/">facebook</a> ·
-    <a href="sharmagarima814@gmail.com">email</a> ·
+    <a href="mailto:sharmagarima814@gmail.com">email</a> ·
     <a href="https://www.linkedin.com/in/garima-sharma08/">linkedin</a>
   </samp>
 </p>
