@@ -3,7 +3,7 @@
     <img src="Assests/garimalogo.svg"> 
   </a> <br> <br>
   <samp>
-    <a target="_blank" href="https://twitter.com/garimavatss">me</a> ·
+    <a href="https://twitter.com/garimavatss" target="_blank">me</a> ·
     <a target="_blank" href="https://dev.to/garimasharma">blogs</a> ·
     <a target="_blank" href="https://github.com/Garima-sharma814?tab=repositories">projects</a> ·
     <a target="_blank" href="https://garimasharma.netlify.app">website</a> ·
