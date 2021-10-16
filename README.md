@@ -6,7 +6,7 @@
     <a href="https://twitter.com/garimavatss" target="_blank">me</a> ·
     <a target="_blank" href="https://dev.to/garimasharma">blogs</a> ·
     <a target="_blank" href="https://github.com/Garima-sharma814?tab=repositories">projects</a> ·
-    <a target="_blank" href="https://garimasharma.netlify.app">website</a> ·
+    <a target="_blank" href="https://garimasharma.netlify.app">portfolio</a> ·
     <a target="_blank" href="https://www.linkedin.com/in/garima-sharma08/">linkedin</a>
   </samp>
 </p>
