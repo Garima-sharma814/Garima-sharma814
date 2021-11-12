@@ -3,7 +3,7 @@
     <img src="Assests/garimalogo.svg"> 
   </a> <br> <br>
   <samp>
-    <a href="https://twitter.com/garimavatss" target="_blank">me</a> ·
+    <a href="https://twitter.com/garimaasharma_" target="_blank">me</a> ·
     <a target="_blank" href="https://dev.to/garimasharma">blogs</a> ·
     <a target="_blank" href="https://github.com/Garima-sharma814?tab=repositories">projects</a> ·
     <a target="_blank" href="https://garimasharma.netlify.app">portfolio</a> ·
@@ -39,7 +39,7 @@
     <img src="Assests/contactme.svg"> </a> <br> <br>
  
   <samp>
-    <a target="_blank" href="https://twitter.com/garimavatss">twitter</a> ·
+    <a target="_blank" href="https://twitter.com/garimaasharma_">twitter</a> ·
     <a target="_blank" href="https://www.instagram.com/garimaasharma_/">instagram</a> ·
     <a target="_blank" href="https://www.facebook.com/garima.vats.143/">facebook</a> ·
     <a target="_blank" href="mailto:sharmagarima814@gmail.com">email</a> ·
