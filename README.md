@@ -12,10 +12,10 @@
 </p>
 
 <hr>
-<div align="center">
+<!-- <div align="center">
 <img src="https://gpvc.arturio.dev/Garima-sharma814"> &nbsp;
 <img src="https://wakatime.com/badge/user/5f2e7415-4f89-4aca-8471-0ac32a131d64.svg" alt="Total time coded since Dec 24 2020" /></a>
-</div>
+</div> -->
 <!-- <div align="center"> -->
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=Garima-sharma814&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garima-sharma814&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true"> <a href="https://wakatime.com/@5f2e7415-4f89-4aca-8471-0ac32a131d64"> -->
 <!-- </div> -->
