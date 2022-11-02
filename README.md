@@ -2,6 +2,7 @@
   <a href="https://garimasharma.netlify.app">
     <img src="Assests/garimalogo.svg"> 
   </a> <br> <br>
+  <!-- The <samp> tag is used to define sample output from a computer program. The content inside is displayed in the browser's default monospace font --> 
   <samp>
     <a href="https://twitter.com/garimaasharma_" target="_blank">me</a> ·
     <a target="_blank" href="https://dev.to/garimasharma">blogs</a> ·
