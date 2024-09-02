@@ -8,7 +8,7 @@
     <a target="_blank" href="https://dev.to/garimasharma">blogs</a> ·
     <a target="_blank" href="https://garimasharma.netlify.app">portfolio</a> ·
     <a target="_blank" href="mailto:sharmagarima814@gmail.com">email</a> ·
-    <a target="_blank" href="https://www.linkedin.com/in/garima-sharma08/">linkedin</a> ·
+    <a target="_blank" href="https://www.linkedin.com/in/garimaasharma/">linkedin</a> ·
     <a target="_blank" href="https://peerlist.io/garimaasharma">peerlist</a> 
     <!--- <a target="_blank" href="https://wakatime.com/@GarimaSharma">wakatime</a> · --->
      <!--- <a target="_blank" href="https://www.instagram.com/garimaasharma_/">instagram</a> · --->
